@@ -14,6 +14,8 @@ import matplotlib.pyplot as plt
 import reclab
 
 # download files from ml100k
+#"hola"
+
 """
 curl -L -o "u1.base" "https://drive.google.com/uc?export=download&id=1bGweNw7NbOHoJz11v6ld7ymLR8MLvBsA"
 curl -L -o "u1.test" "https://drive.google.com/uc?export=download&id=1f_HwJWC_1HFzgAjKAWKwkuxgjkhkXrVg"
